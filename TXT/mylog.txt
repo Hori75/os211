@@ -1,4 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 10 L03
+ZCZC W00 10 L03 Setting up os211 repo
+ZCZC W00 20 L06 Reading Week 0 Slides
+ZCZC W00 90 L21 Install VirtualBox and setting up Debian Guest
