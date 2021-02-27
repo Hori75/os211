@@ -4,3 +4,7 @@
 ZCZC W00 10 L03 Setting up os211 repo
 ZCZC W00 20 L06 Reading Week 0 Slides
 ZCZC W00 90 L21 Install VirtualBox and setting up Debian Guest
+ZCZC W00 80 L04 Week 0 Zoom Meeting
+ZCZC W00 20 L23 Discussing about setting up VirtualBox
+ZCZC W00 10 L08 Accessing Kawung and local debian guest via ssh
+ZCZC W00 390 L08 Installing more Debian packages on guest, setting up user, and trying file sharing feature
