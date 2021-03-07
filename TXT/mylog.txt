@@ -8,3 +8,8 @@ ZCZC W00 80 L04 Week 0 Zoom Meeting
 ZCZC W00 20 L23 Discussing about setting up VirtualBox
 ZCZC W00 10 L08 Accessing Kawung and local debian guest via ssh
 ZCZC W00 390 L08 Installing more Debian packages on guest, setting up user, and trying file sharing feature
+ZCZC W01 80 L04 Week 1 Zoom Meeting
+ZCZC W01 60 L21 Setup new user Hori75 instead of hori75
+ZCZC W01 120 L06 Reading OS slides and Week 1 slides
+ZCZC W01 120 L05 Finding relatedd sites for Top 10 Week 1
+ZCZC W01 240 L03 Week 1 related tasks
