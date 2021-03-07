@@ -1,0 +1,16 @@
+title:       "Operating Systems 2021-1 (OS211)"
+copyright:   "2021-2021"
+description: "Web created for Operating Systems 2021-1 (OS211) purposes"
+# baseurl: "" # e.g. /blog
+# url: ""     # e.g. http://example.com
+author:           "William"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb:           "https://hori75.github.io/os211/"
+urlgithub:        "https://github.com/hori75/os211/"
+urlghpage:        "https://hori75.github.io/os211/"
+keywords:         "jekyll, testing"
+github:           [metadata]
+
