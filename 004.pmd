@@ -3,6 +3,12 @@ layout: "layout"
 title:  "GitHub Page Configuration Files"
 ---
 
+### TXT/myscript.sh
+
+```
+(> TXT/myscript.sh <)
+```
+
 ### _config.yml
 
 ```

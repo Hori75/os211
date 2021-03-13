@@ -27,7 +27,7 @@
 }
 
 .container a {
-  color: #a0a0a0;
+  color: black;
 }
 
 .container a:hover {
@@ -124,6 +124,7 @@
 
 .navbar ul li a {
   text-decoration: none;
+  color:         #a0a0a0;
 }
 
 .navbar ul li a:hover {
@@ -134,6 +135,7 @@
 }
 
 pre {
+  background:    black;
   border:        3px solid rgba(255, 255, 255, 0.15);
   padding:       10px; 
   color:         #b5e853;

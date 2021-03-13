@@ -13,3 +13,7 @@ ZCZC W01 60 L21 Setup new user Hori75 instead of hori75
 ZCZC W01 120 L06 Reading OS slides and Week 1 slides
 ZCZC W01 120 L05 Finding relatedd sites for Top 10 Week 1
 ZCZC W01 240 L03 Week 1 related tasks
+ZCZC W02 80 L04 Week 2 Zoom Meeting
+ZCZC W02 180 L21 Reading OS Slides and Week 2 slides
+ZCZC W02 180 L05 Finding related sites for Top 10 Week 2
+ZCZC W02 180 L03 Week 2 related tasks
