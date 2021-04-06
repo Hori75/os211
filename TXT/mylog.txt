@@ -25,3 +25,7 @@ ZCZC W04 80 L04 Week 4 Zoom Meeting
 ZCZC W04 180 L21 Reading OS Slides and Week 4 Slides
 ZCZC W04 180 L05 Finding related sites for Top 10 Week 4
 ZCZC W04 190 L03 Week 4 related task
+ZCZC W05 80 L04 Week 5 Zoom Meeting
+ZCZC W05 180 L21 Reading OS Slides and Week 5 Slides
+ZCZC W05 180 L05 Finding related sites for Top 10 Week 5
+ZCZC W05 180 L03 Week 5 related task
