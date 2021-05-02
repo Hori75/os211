@@ -33,3 +33,7 @@ ZCZC W06 80 L04 Week 6 Zoom Meeting
 ZCZC W06 180 L21 Reading OS Slides and Week 6 Slides
 ZCZC W06 180 L05 Finding related sites for Top 10 Week 6
 ZCZC W06 190 L03 Week 6 related task
+ZCZC W07 80 L04 Week 7 Zoom Meeting
+ZCZC W07 180 L21 Reading OS Slides and Week 7 Slides
+ZCZC W07 180 L05 Finding relateed sites for Top 10 Week 7
+ZCZC W07 180 L03 Week 7 related task

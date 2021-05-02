@@ -17,3 +17,6 @@ ZCZC W05 irfancen
 ZCZC W06 KalEl2001
 ZCZC W06 jojonicho
 ZCZC W06 IoriU
+ZCZC W07 IoriU
+ZCZC W07 jojonicho
+ZCZC W07 KalEl2001
